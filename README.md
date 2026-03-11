@@ -1,4 +1,4 @@
-![CI/CD Test](https://github.com/dbache/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![CI/CD Test Status](https://github.com/derekbache/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
